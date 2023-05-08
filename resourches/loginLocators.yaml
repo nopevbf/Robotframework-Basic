@@ -1,0 +1,17 @@
+url : "https://www.saucedemo.com/"
+browser : "Chrome"
+# locators
+Txt_Username : "id:user-name"
+Txt_Password : "id:password"
+Btn_Login : "id:login-button"
+Btn_Menu : "id:react-burger-menu-btn"
+Lnk_Logout : "id:logout_sidebar_link"
+Lbl_Error : "Epic sadface: Username and password do not match any user in this service"
+Lbl_Products : "Products"
+# valid data saucedemo
+username : "standard_user"
+password : "secret_sauce"
+# invalid data saucedemo
+username_invalid : "standard_user_invalid"
+password : "secret_sauce"
+
